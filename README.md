@@ -226,6 +226,49 @@ The pipeline generates:
 | `exception_report.csv` | Detailed exception report |
 | `remediation_backlog.csv` | Prioritized corrective action backlog |
 
+## Project Results
+
+After running the full audit pipeline on 1,000 synthetic SAP-like document and compliance records, the tool generated executive-level audit outputs, quality scores, exception reports, and remediation backlogs.
+
+### Executive Audit Summary
+
+| Metric                     |                                                  Result |
+| -------------------------- | ------------------------------------------------------: |
+| Total Documents Audited    |                                                   1,000 |
+| Total Issues Detected      | 1712.0 |
+| Average Data Quality Score | 65.04 |
+| Critical Issues            | 811.0 |
+| High Issues                | 233.0 |
+| Medium Issues              | 608.0` |
+| Low Issues                 | 60.0` |
+| Critical Risk Documents    | 175.0 |
+| High Risk Documents        | 126.0` |
+| Expired Active Documents   | 365.0` |
+| Missing Approval Documents | 353.0` |
+| Missing Owner Documents    | 40.0|
+| Inactive Owner Documents   | 128.0 |
+
+### Key Findings
+
+The audit identified several high-impact data quality issues, including:
+
+* Active documents with expired expiration dates
+* Active or confidential documents missing approval
+* Documents assigned to inactive owners
+* Documents with missing ownership information
+* Invalid date sequences
+* Missing next review dates
+* Overdue document reviews
+* Missing document versions
+* Missing file references
+
+### Business Interpretation
+
+The results show how SAP-like document and compliance records can be converted into a structured audit process. Instead of manually reviewing spreadsheets, the tool automatically identifies data quality issues, assigns severity, calculates document-level risk scores, and generates a remediation backlog.
+
+This approach improves audit readiness, reduces manual review effort, and gives compliance, quality, supply chain, and operations teams a prioritized view of records that require corrective action.
+
+
 ---
 
 ## How to Run the Project
