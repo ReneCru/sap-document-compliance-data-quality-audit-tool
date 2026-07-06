@@ -273,6 +273,22 @@ The dashboard includes:
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](docs/screenshots/dashboard_executive_overview.jpg)
+
+### Risk and Issue Analysis
+
+![Risk and Issue Analysis](docs/screenshots/dashboard_risk_charts.jpg)
+
+### Remediation Backlog
+
+![Remediation Backlog](docs/screenshots/dashboard_remediation_backlog.jpg)
+
+---
+
 ## SQL Layer
 
 The `sql/` folder includes PostgreSQL-compatible scripts for:
