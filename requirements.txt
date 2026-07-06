@@ -1,8 +1,6 @@
-cat > requirements.txt << 'EOF'
 pandas
 numpy
 streamlit
 plotly
 openpyxl
 psycopg2-binary
-EOF

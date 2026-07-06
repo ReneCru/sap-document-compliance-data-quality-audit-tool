@@ -1,0 +1,51 @@
+owner_id,owner_name,department,role,active_flag,email
+OWN-001,Carlos Lopez,Compliance,Quality Engineer,True,carlos.lopez@example.com
+OWN-002,Sofia Johnson,Compliance,Program Manager,False,sofia.johnson@example.com
+OWN-003,Laura Thomas,Supply Chain,Compliance Analyst,True,laura.thomas@example.com
+OWN-004,Michael Lopez,Finance,Document Control Specialist,True,michael.lopez@example.com
+OWN-005,Gabriela Thomas,Quality,Supply Chain Analyst,True,gabriela.thomas@example.com
+OWN-006,Maria Brown,Compliance,Supply Chain Analyst,True,maria.brown@example.com
+OWN-007,Sofia Rodriguez,Program Management,Quality Engineer,True,sofia.rodriguez@example.com
+OWN-008,Robert Johnson,Engineering,Business Systems Analyst,True,robert.johnson@example.com
+OWN-009,Luis Smith,Compliance,Supply Chain Analyst,True,luis.smith@example.com
+OWN-010,Robert Garcia,Finance,Quality Engineer,True,robert.garcia@example.com
+OWN-011,Diana Anderson,Finance,Document Control Specialist,True,diana.anderson@example.com
+OWN-012,John Davis,Program Management,Quality Engineer,False,john.davis@example.com
+OWN-013,Michael Johnson,Operations,Quality Engineer,True,michael.johnson@example.com
+OWN-014,Patricia Brown,Engineering,Quality Engineer,True,patricia.brown@example.com
+OWN-015,Luis Garcia,Finance,Program Manager,True,luis.garcia@example.com
+OWN-016,Michael Brown,Operations,Supply Chain Analyst,True,michael.brown@example.com
+OWN-017,Gabriela Davis,Compliance,Quality Engineer,True,gabriela.davis@example.com
+OWN-018,John Davis,Program Management,Compliance Analyst,True,john.davis@example.com
+OWN-019,Robert Hernandez,Supply Chain,Document Control Specialist,False,robert.hernandez@example.com
+OWN-020,Mark Gonzalez,Quality,Program Manager,True,mark.gonzalez@example.com
+OWN-021,Jose Martinez,Engineering,Document Control Specialist,True,jose.martinez@example.com
+OWN-022,Gabriela Hernandez,Compliance,Operations Manager,True,gabriela.hernandez@example.com
+OWN-023,Mark Perez,Engineering,Document Control Specialist,False,mark.perez@example.com
+OWN-024,Sofia Moore,Supply Chain,Business Systems Analyst,True,sofia.moore@example.com
+OWN-025,Carlos Martinez,Compliance,Document Control Specialist,True,carlos.martinez@example.com
+OWN-026,Monica Garcia,Operations,Supply Chain Analyst,True,monica.garcia@example.com
+OWN-027,Jose Hernandez,Finance,Business Systems Analyst,False,jose.hernandez@example.com
+OWN-028,Carlos Hernandez,Program Management,Program Manager,True,carlos.hernandez@example.com
+OWN-029,Jessica Thomas,Quality,Supply Chain Analyst,True,jessica.thomas@example.com
+OWN-030,Luis Brown,Finance,Compliance Analyst,False,luis.brown@example.com
+OWN-031,Jessica Rodriguez,Quality,Quality Engineer,True,jessica.rodriguez@example.com
+OWN-032,Gabriela Lopez,Finance,Quality Engineer,True,gabriela.lopez@example.com
+OWN-033,Carlos Anderson,Program Management,Business Systems Analyst,True,carlos.anderson@example.com
+OWN-034,John Davis,Finance,Compliance Analyst,True,john.davis@example.com
+OWN-035,Andrea Garcia,Program Management,Operations Manager,True,andrea.garcia@example.com
+OWN-036,Sofia Moore,Finance,Document Control Specialist,True,sofia.moore@example.com
+OWN-037,Diana Thomas,Quality,Operations Manager,True,diana.thomas@example.com
+OWN-038,Ana Wilson,Operations,Program Manager,True,ana.wilson@example.com
+OWN-039,Jose Sanchez,Supply Chain,Document Control Specialist,True,jose.sanchez@example.com
+OWN-040,David Lopez,Finance,Operations Manager,True,david.lopez@example.com
+OWN-041,Michael Lopez,Supply Chain,Program Manager,True,michael.lopez@example.com
+OWN-042,Michael Garcia,Supply Chain,Business Systems Analyst,True,michael.garcia@example.com
+OWN-043,Fernando Davis,Engineering,Program Manager,True,fernando.davis@example.com
+OWN-044,Gabriela Martinez,Compliance,Operations Manager,True,gabriela.martinez@example.com
+OWN-045,Michael Moore,Program Management,Supply Chain Analyst,True,michael.moore@example.com
+OWN-046,Carlos Thomas,Engineering,Supply Chain Analyst,True,carlos.thomas@example.com
+OWN-047,John Johnson,Supply Chain,Supply Chain Analyst,True,john.johnson@example.com
+OWN-048,Carlos Davis,Quality,Document Control Specialist,True,carlos.davis@example.com
+OWN-049,Sofia Thomas,Quality,Quality Engineer,True,sofia.thomas@example.com
+OWN-050,Laura Sanchez,Program Management,Business Systems Analyst,False,laura.sanchez@example.com
