@@ -1,0 +1,17 @@
+metric,value
+Total Documents Audited,1000.0
+Total Issues Detected,1712.0
+Average Data Quality Score,65.04
+Critical Issues,811.0
+High Issues,233.0
+Medium Issues,608.0
+Low Issues,60.0
+Critical Risk Documents,175.0
+High Risk Documents,126.0
+Medium Risk Documents,277.0
+Low Risk Documents,92.0
+Healthy Documents,330.0
+Expired Active Documents,365.0
+Missing Approval Documents,353.0
+Missing Owner Documents,40.0
+Inactive Owner Documents,128.0
