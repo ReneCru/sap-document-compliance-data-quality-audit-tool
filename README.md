@@ -407,6 +407,26 @@ This tool helps compliance, quality, operations, supply chain, and business syst
 
 ---
 
+## Portfolio Positioning
+
+This project was built as part of a professional portfolio focused on business systems, SAP-like data analysis, compliance, supply chain operations, and data quality automation.
+
+It demonstrates the ability to connect business process knowledge with technical implementation using Python, SQL, Streamlit, and structured documentation.
+
+The project is relevant for roles such as:
+
+- Business Systems Analyst
+- SAP Data Analyst
+- Data Quality Analyst
+- Compliance Analyst
+- Supply Chain Systems Analyst
+- Operations Analyst
+- Process Improvement Analyst
+- Business Intelligence Analyst
+- Project Coordinator with systems and analytics focus
+
+---
+
 ## Confidentiality Notice
 
 This project does not use real SAP data, vendor master data, material master data, or confidential company information.
